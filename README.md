@@ -1,4 +1,1 @@
-# minikube_pra
-# minikube_pra
-# minikube_pra
-# minikube_pra
+This repository was made for practice of minikube.
